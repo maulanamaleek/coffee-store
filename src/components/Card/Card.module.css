@@ -1,0 +1,23 @@
+
+.title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 1.25rem /* 20px */;
+  line-height: 1.75rem /* 28px */;
+  font-weight: 800;
+  overflow: hidden;
+  width: 16rem /* 256px */;
+  margin: .4rem 0;
+}
+
+.container {
+  /* background-color: white; */
+  padding: .4rem;
+  border-radius: .6rem;
+}
+
+.image {
+  margin: auto;
+  display: block;
+  width: 100%;
+}
